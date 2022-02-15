@@ -7,3 +7,5 @@ New text
 This is an update, on branch
 
 This is not a problem
+
+This is new
